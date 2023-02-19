@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Developer, FullStack Developer, ReactJS, C++ Developer.<br>👯 I’m looking to collaborate on flutter development and C++.<br>🌱 I’m currently learning Flutter, C++, ReactJS, Python.<br>💬 Ask me about react, flutter, C++, python, java, dart, firebase. <br>
+🔭 I’m currently working on Android Developer, Frontend Developer, Backend Developer, ReactJS, NodeJS, ExpressJS, Postman C++ Developer.<br>👯 I’m looking to collaborate on flutter development and C++.<br>🌱 I’m currently learning Flutter, C++, ReactJS, NodeJS, ExpressJS, Python.<br>💬 Ask me about react, flutter, C++, python, java, dart, firebase, Javascript, NodeJS, ExpressJS, Postman. <br>
 
 
 ## 🌐 Socials:

@@ -11,3 +11,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu814&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivanshu814&theme=dark&hide_border=false&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

@@ -1,5 +1,6 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...     
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=shivanshu814&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu814" /> </p> -->
 
 🔭 I’m currently working on Android Developer, Frontend Developer, Backend Developer, ReactJS, NodeJS, ExpressJS, Postman C++ Developer.<br>👯 I’m looking to collaborate on flutter development and C++.<br>🌱 I’m currently learning Flutter, C++, ReactJS, NodeJS, ExpressJS, Python.<br>💬 Ask me about react, flutter, C++, python, java, dart, firebase, Javascript, NodeJS, ExpressJS, Postman. <br>
 

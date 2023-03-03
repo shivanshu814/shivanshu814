@@ -12,7 +12,7 @@
  ```javascript
 const Shivanshu = {
   pronouns: "he" | "him",
-  code: [CPP, Python, Javascript, HTML, CSS, Dart],
+  code: [CPP, Python, HBS, Javascript, HTML, CSS, Dart],
   tools: [React, ExpressJS, NodeJS, Flutter, Docker],
 }
 ```

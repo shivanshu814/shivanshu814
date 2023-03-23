@@ -3,7 +3,7 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=shivanshu814&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu814" /> </p> -->
 
-🔭 I’m currently working on Android Developer, Frontend Developer, Backend Developer, ReactJS, NodeJS, ExpressJS, Postman C++ Developer.<br>👯 I’m looking to collaborate on flutter development and C++.<br>🌱 I’m currently learning Flutter, C++, ReactJS, NodeJS, ExpressJS, Python.<br>💬 Ask me about react, flutter, C++, python, java, dart, firebase, Javascript, NodeJS, ExpressJS, Postman. <br>
+🔭 I’m currently working on Android Developer, Frontend Developer, Backend Developer, ReactJS, NodeJS, ExpressJS, Postman, C++ Developer.<br>👯 I’m looking to collaborate on flutter development and C++.<br>🌱 I’m currently learning Flutter, C++, Python, ReactJS, NodeJS, ExpressJS, TypeScript, TailwindCSS.<br>💬 Ask me about react, flutter, C++, python, java, dart, firebase, Javascript, NodeJS, ExpressJS, Postman. <br>
 
 
 ## 🌐 Socials: 
@@ -14,7 +14,7 @@
  ```javascript
 const Shivanshu = {
   pronouns: "he" | "him",
-  code: [CPP, Python, HBS, Javascript, HTML, CSS, Dart, JavaScript XML],
+  code: [CPP, Python, HBS, JavaScript, TypeScript, HTML, CSS, Dart, JavaScript XML],
   tools: [ReactJS, ExpressJS, NodeJS, Flutter, Docker],
 }
 ```

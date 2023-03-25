@@ -34,3 +34,7 @@ const Shivanshu = {
   </td>
 </p>
 </details>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=shivanshu814&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+</p>

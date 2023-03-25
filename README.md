@@ -1,9 +1,9 @@
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me.....    
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me.....   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=shivanshu814&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu814" /> </p> -->
 
-🔭 I’m currently working on Android Developer, Frontend Developer, Backend Developer, ReactJS, NodeJS, ExpressJS, Postman, C++ Developer.<br>👯 I’m looking to collaborate on flutter development and C++.<br>🌱 I’m currently learning Flutter, C++, Python, ReactJS, NodeJS, ExpressJS, TypeScript, TailwindCSS.<br>💬 Ask me about react, flutter, C++, python, java, dart, firebase, Javascript, NodeJS, ExpressJS, Postman. <br>
+🔭 I’m currently working on Android Developer, Software Developer, Frontend Developer, Backend Developer, ReactJS, Python, Typescript, NodeJS, ExpressJS, Postman, C++ Developer.<br>👯 I’m looking to collaborate on flutter development and C++.<br>🌱 I’m currently learning Flutter, C++, Python, ReactJS, NodeJS, ExpressJS, TypeScript, TailwindCSS.<br>💬 Ask me about react, flutter, C++, python, java, dart, firebase, Javascript, NodeJS, ExpressJS, Postman. <br>
 
 
 ## 🌐 Socials: 
@@ -24,3 +24,13 @@ const Shivanshu = {
 
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shivanshu814&theme=dark&hide_border=false&show_icons=true&hide_border=true&&count_private=true&layout=compact&include_all_commits=true" /> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu814&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)                   
 
+
+<tr>
+  <td align="center">
+  <a href="https://github.com/shivanshu814">
+    <img align="center" height="200px" width="600" src="https://github-readme-streak-stats.herokuapp.com?user=shivanshu814&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD" />
+    
+  </a>
+  </td>
+</p>
+</details>

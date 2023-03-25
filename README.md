@@ -3,7 +3,7 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=shivanshu814&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu814" /> </p> -->
 
-🔭 I’m currently working on  Software Developer, Android Developer, React Developer, Backend Developer.<br>👯 I’m looking to collaborate on C++, Python, Javascript, Typescript and Flutter.<br>🌱 I’m currently learning Flutter, C++, Python, ReactJS, NodeJS, ExpressJS, TypeScript, TailwindCSS.<br>💬 Ask me about ReactJS, Flutter, C++, Python, Dart, Javascript, NodeJS, ExpressJS, Typescript, TailwindCSS. <br>
+🔭 I’m currently working on  Software Developer, Android Developer, Full Stack Developer.<br>👯 I’m looking to collaborate on C++, Python, Javascript, Typescript and Flutter.<br>🌱 I’m currently learning Flutter, C++, Python, ReactJS, NodeJS, ExpressJS, TypeScript, TailwindCSS.<br>💬 Ask me about ReactJS, Flutter, C++, Python, Dart, Javascript, NodeJS, ExpressJS, Typescript, TailwindCSS. <br>
 
 
 ## 🌐 Socials: 

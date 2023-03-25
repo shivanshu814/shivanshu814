@@ -3,7 +3,7 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=shivanshu814&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu814" /> </p> -->
 
-🔭 I’m currently working on Android Developer, Software Developer, Frontend Developer, Backend Developer, ReactJS, Python, Typescript, NodeJS, ExpressJS, Postman, C++ Developer.<br>👯 I’m looking to collaborate on flutter development and C++.<br>🌱 I’m currently learning Flutter, C++, Python, ReactJS, NodeJS, ExpressJS, TypeScript, TailwindCSS.<br>💬 Ask me about react, flutter, C++, python, java, dart, firebase, Javascript, NodeJS, ExpressJS, Postman. <br>
+🔭 I’m currently working on  Software Developer, Android Developer, React Developer, Backend Developer.<br>👯 I’m looking to collaborate on C++, Python, Javascript, Typescript and Flutter.<br>🌱 I’m currently learning Flutter, C++, Python, ReactJS, NodeJS, ExpressJS, TypeScript, TailwindCSS.<br>💬 Ask me about ReactJS, Flutter, C++, Python, Dart, Javascript, NodeJS, ExpressJS, Typescript, TailwindCSS. <br>
 
 
 ## 🌐 Socials: 
@@ -18,22 +18,46 @@ const Shivanshu = {
   tools: [ReactJS, ExpressJS, NodeJS, Flutter, Docker],
 }
 ```
+
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+
+
 # 📊 GitHub Stats:
 
-
- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shivanshu814&theme=dark&hide_border=false&show_icons=true&hide_border=true&&count_private=true&layout=compact&include_all_commits=true" /> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu814&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)                   
-
+<!-- status -->
 
 <tr>
-  <td align="center">
+ <p align="center">
   <a href="https://github.com/shivanshu814">
-    <img align="center" height="200px" width="600" src="https://github-readme-streak-stats.herokuapp.com?user=shivanshu814&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD" />
+    <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshu814&show_icons=true&locale=en&layout=compact&theme=gruvbox" />
+  </a>
+ <p/>
+<tr/>
+
+<!-- status -->
+
+<tr>
+ <p align="center">
+  <a href="https://github.com/shivanshu814">
+   <img align="center" height="200px" width="600"src="https://github-readme-stats.vercel.app/api?username=shivanshu814&count_private=true&show_icons=true&show_icons=true&locale=en&theme=gruvbox"/>
+  </a>
+ <p/>
+<tr/>
+
+
+<!-- streak -->
+
+<tr>
+  <p align="center">
+  <a href="https://github.com/shivanshu814">
+    <img align="center" height="200px" width="600" src="https://github-readme-streak-stats.herokuapp.com?user=shivanshu814&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD" />
     
   </a>
-  </td>
-</p>
-</details>
+  </p>
+<tr/>
+
+<!-- trophies -->
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=shivanshu814&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>

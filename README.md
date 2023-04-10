@@ -61,6 +61,8 @@ const Shivanshu = {
 
 <!-- trophies -->
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=shivanshu814&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p>
+</p> -->
+
+![wave](https://user-images.githubusercontent.com/27716524/177011380-18d847de-f563-4c6c-a4b0-d6e530224568.svg)

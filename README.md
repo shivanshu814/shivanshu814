@@ -26,13 +26,13 @@ const Shivanshu = {
 
 <!-- status -->
 
-<tr>
+<!-- <tr>
  <p align="center">
   <a href="https://github.com/shivanshu814">
     <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshu814&show_icons=true&locale=en&layout=compact&theme=gruvbox" />
   </a>
  <p/>
-<tr/>
+<tr/> -->
 
 <!-- streak -->
 

@@ -35,6 +35,7 @@ const Shivanshu = {
 <tr/> -->
 
 <!-- streak -->
+![Shivanshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shivanshu814&theme=tokyo-night&area=true&hide_border=true)
 
 <tr>
   <p align="center">

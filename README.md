@@ -15,8 +15,8 @@
  ```javascript
 const Shivanshu = {
   pronouns: "he" | "him",
-  code: [CPP, Python, HBS, JavaScript, TypeScript, HTML, CSS, Dart, JavaScript XML],
-  tools: [ReactJS, ExpressJS, NodeJS, Flutter, Docker],
+  code: [CPP, Python, JavaScript, TypeScript, HTML, CSS, Dart, JavaScript XML],
+  tools: [ReactJS, ExpressJS, NextJS, Handlebars, NodeJS, Flutter, Docker],
 }
 ```
 

@@ -3,7 +3,7 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=shivanshu814&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu814" /> </p> -->
 
-🔭 I have Problem Solving Skills and I’m currently working as a Software Developer, Full Stack Developer.<br>👯 I’m looking to collaborate on C++, Python, Javascript, Typescript and Flutter.<br>🌱 I’m currently learning Flutter, C++, Python, ReactJS, NodeJS, ExpressJS, TypeScript, TailwindCSS.<br>💬 Ask me about ReactJS, Flutter, C++, Python, Dart, Javascript, NodeJS, ExpressJS, Typescript, TailwindCSS. <br>
+🔭 I have Problem Solving Skills and I’m currently working as a Software Developer, Full Stack Developer.<br>👯 I’m looking to collaborate on C++, Python, Javascript, Typescript and Flutter.<br>🌱 I’m currently learning C++, NextJS, NodeJS, ExpressJS, TypeScript, ChakraUI, TailwindCSS.<br>💬 Ask me about ReactJS, Flutter, C++, Python, Dart, PlanetScale Database, Javascript, NodeJS, ExpressJS, Typescript, ChakraUI, TailwindCSS. <br>
 
 <!-- Social Media -->
 

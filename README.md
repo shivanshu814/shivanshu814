@@ -14,7 +14,7 @@
 # 💻 Tech Stack:
  ```javascript
 const Shivanshu = {
-  Language: [CPP, C, Python, HTML, Kotlin, JavaScript, Dart, Handelbars, TypeScript, Rust, SQL],
+  Language: [CPP, C, Python, HTML, Kotlin, JavaScript, Dart, Handelbars, Postgresql, Rust, SQL],
   Framework: [ReactJS, NextJS, T3 Stack],
   Backend: [ExpressJS, Javascript, Typescript, NestJS],
 }

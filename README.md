@@ -16,7 +16,7 @@
 const Shivanshu = {
   Language: [CPP, C, Python, HTML, Kotlin, JavaScript, Dart, Handelbars, TypeScript, Rust, SQL],
   Framework: [ReactJS, NextJS, T3 Stack],
-  Backend: [ExpressJS, Javascript, Typescript],
+  Backend: [ExpressJS, Javascript, Typescript, NestJS],
 }
 ```
 

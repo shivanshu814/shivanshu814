@@ -2,13 +2,24 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=shivanshu814&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu814" /> </p> -->
+🔭 Professional Background: I am a seasoned Engineer currently enhancing digital experiences at Savour Labs in Tianjin, China. My expertise primarily lies in using Rust, React Native, React, and Next.js, Vue with a strong focus on TypeScript. Additionally, I hold the position of Chief Technology Officer at TouchTechnologies, where we are pioneering innovations in future WebOS platforms.
 
-🔭 I have Problem Solving Skills and I’m currently working as a Software Developer, Full Stack Developer.<br>👯 I’m looking to collaborate on C++, Python, Javascript, Typescript and Flutter.<br>🌱 I’m currently learning C++, NextJS, NodeJS, ExpressJS, TypeScript, ChakraUI, TailwindCSS.<br>💬 Ask me about ReactJS, Flutter, C++, Python, Dart, PlanetScale Database, Javascript, NodeJS, ExpressJS, Typescript, ChakraUI, TailwindCSS. <br>
+👯 Synergistic Endeavors: Eager to engage in symbiotic collaborations, I bring to the table a wealth of experience in C++, Python, JavaScript, TypeScript, and Flutter. My diverse technological repertoire enables me to contribute significantly to multifaceted projects.
+
+🌱 Pursuit of Knowledge: My professional journey is marked by an unyielding pursuit of knowledge, currently honing my skills in C++, NextJS, NodeJS, ExpressJS, TypeScript, ChakraUI, and TailwindCSS. This dedication to continual self-enhancement ensures that I remain at the cutting edge of technological evolution.
+
+💬 Expert Consultancy: I invite discussions and inquiries on a spectrum of topics including ReactJS, Flutter, C++, Python, Dart, PlanetScale Database, JavaScript, NodeJS, ExpressJS, TypeScript, ChakraUI, and TailwindCSS. My extensive expertise in these areas positions me as a reliable source of wisdom and practical solutions.
 
 <!-- Social Media -->
 
 ## 🌐 Socials: 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shivanshu.pathak.5454) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shivanshu__pathak__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshu-pathak-6611b5228) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shivanshupathak814) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20921970/shivanshu-pathak) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Shivanshu814) 
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shivanshu.pathak.5454) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shivanshu__pathak__) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshu-pathak-6611b5228) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shivanshupathak814) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20921970/shivanshu-pathak) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Shivanshu814) 
 
 
 # 💻 Tech Stack:

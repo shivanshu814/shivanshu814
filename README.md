@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=shivanshu814&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu814" /> </p> -->
-🔭 Professional Background: I am a seasoned Engineer currently enhancing digital experiences at Savour Labs in Tianjin, China. My expertise primarily lies in using Rust, React Native, React, and Next.js, Vue with a strong focus on TypeScript. Additionally, I hold the position of Chief Technology Officer at TouchTechnologies, where we are pioneering innovations in future WebOS platforms.
+🔭 Professional Background: I am a seasoned Engineer currently enhancing digital experiences at Savour Labs in Tianjin, China and CornerStone in Singapore. My expertise primarily lies in using Rust, React Native, React, and Next.js, Vue with a strong focus on TypeScript. Additionally, I hold the position of Chief Technology Officer at TouchTechnologies, where we are pioneering innovations in future WebOS platforms.
 
 👯 Synergistic Endeavors: Eager to engage in symbiotic collaborations, I bring to the table a wealth of experience in C++, Python, JavaScript, TypeScript, and Flutter. My diverse technological repertoire enables me to contribute significantly to multifaceted projects.
 

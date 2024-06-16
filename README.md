@@ -1,8 +1,4 @@
-<!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me.....   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=shivanshu814&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu814" /> </p> -->
-🔭 Professional Background: I am a seasoned Engineer currently enhancing digital experiences at Eniac-X Labs in Tianjin, China and Bridge Alchemy in Singapore. My expertise primarily lies in using Rust, React Native, React, and Next.js, Vue with a strong focus on TypeScript. Additionally, I hold the position of Chief Technology Officer at TouchTechnologies, where we are pioneering innovations in future WebOS platforms.
+🔭 Professional Background: I am a Software Development Engineer at Kryptos in Gothenburg, Sweden. I am also the Founder and Chief Technology Officer of TouchTechnologies, where we are pioneering innovations in future WebOS platforms. Furthermore, I serve as the CTO of NFT-Tag. My expertise primarily lies in using Rust, React Native, React, Next.js, Vue with a strong focus on TypeScript. Previously, I was enhancing digital experiences at Eniac-X Labs (DappLink) in Tianjin, China, and Bridge Alchemy in Singapore.
 
 👯 Synergistic Endeavors: Eager to engage in symbiotic collaborations, I bring to the table a wealth of experience in C++, Python, JavaScript, TypeScript, and Flutter. My diverse technological repertoire enables me to contribute significantly to multifaceted projects.
 

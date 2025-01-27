@@ -1,10 +1,8 @@
-🔭 Professional Background: I am a Software Development Engineer at Kryptos in Gothenburg, Sweden. I am also the Founder and Chief Technology Officer of TouchTechnologies, where we are pioneering innovations in future WebOS platforms. Furthermore, I serve as the CTO of NFT-Tag. My expertise primarily lies in using Rust, React Native, React, Next.js, Vue with a strong focus on TypeScript. Previously, I was enhancing digital experiences at Eniac-X Labs (DappLink) in Tianjin, China, and Bridge Alchemy in Singapore.
+🔭 **Professional Background**: Software Development Engineer at Kryptos, Gothenburg, Sweden, and Founder & CTO of TouchTechnologies, driving innovation in WebOS platforms. Also CTO of NFT-Tag, with expertise in Rust, React Native, React, Next.js, and TypeScript. Formerly at Eniac-X Labs (DappLink) in China and Bridge Alchemy in Singapore.
 
-👯 Synergistic Endeavors: Eager to engage in symbiotic collaborations, I bring to the table a wealth of experience in C++, Python, JavaScript, TypeScript, and Flutter. My diverse technological repertoire enables me to contribute significantly to multifaceted projects.
+🌱 **Continuous Growth**: Sharpening skills in C++, Next.js, Node.js, Express.js, TypeScript, and TailwindCSS to stay ahead in tech.
 
-🌱 Pursuit of Knowledge: My professional journey is marked by an unyielding pursuit of knowledge, currently honing my skills in C++, NextJS, NodeJS, ExpressJS, TypeScript, ChakraUI, and TailwindCSS. This dedication to continual self-enhancement ensures that I remain at the cutting edge of technological evolution.
-
-💬 Expert Consultancy: I invite discussions and inquiries on a spectrum of topics including ReactJS, Flutter, C++, Python, Dart, PlanetScale Database, JavaScript, NodeJS, ExpressJS, TypeScript, ChakraUI, and TailwindCSS. My extensive expertise in these areas positions me as a reliable source of wisdom and practical solutions.
+💬 **Expertise**: Open to discussions on ReactJS, Flutter, C++, Python, Dart, JavaScript, Node.js, PlanetScale DB, and UI frameworks like ChakraUI and TailwindCSS.
 
 <!-- Social Media -->
 

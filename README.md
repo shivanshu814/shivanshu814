@@ -1,8 +1,8 @@
-🔭 **Professional Background**: Software Development Engineer at Kryptos, Gothenburg, Sweden, and Founder & CTO of TouchTechnologies, driving innovation in WebOS platforms. Also CTO of NFT-Tag, with expertise in Rust, React Native, React, Next.js, and TypeScript. Formerly at Eniac-X Labs (DappLink) in China and Bridge Alchemy in Singapore.
+🔭 **Professional Background**: Founder & CTO of TouchTechnologies, Software Development Engineer at Kryptos (Gothenburg, Sweden), and currently building [baskt.ai](https://baskt.ai). Formerly CTO of NFT-Tag, with experience at Mantle in China and Bridge Alchemy in Singapore. Skilled in Golang, Rust, Solana, React Native, React, Next.js, and TypeScript.
 
 🌱 **Continuous Growth**: Sharpening skills in C++, Next.js, Node.js, Express.js, TypeScript, and TailwindCSS to stay ahead in tech.
 
-💬 **Expertise**: Open to discussions on ReactJS, Flutter, C++, Python, Dart, JavaScript, Node.js, PlanetScale DB, and UI frameworks like ChakraUI and TailwindCSS.
+💬 **Expertise**: Open to discussions on ReactJS, Flutter, C++, Python, Dart, JavaScript, Node.js, PlanetScale DB, TimescaleDB, and UI frameworks like ChakraUI and TailwindCSS.
 
 <!-- Social Media -->
 

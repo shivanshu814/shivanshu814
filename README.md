@@ -1,8 +1,13 @@
-🔭 **Professional Background**: Founder & CTO of TouchTechnologies, Software Development Engineer at Kryptos (Gothenburg, Sweden), and currently building [baskt.ai](https://baskt.ai). Formerly CTO of NFT-Tag, with experience at Mantle in China and Bridge Alchemy in Singapore. Skilled in Golang, Rust, Solana, React Native, React, Next.js, and TypeScript.
+### Shivanshu Pathak
 
-🌱 **Continuous Growth**: Sharpening skills in C++, Next.js, Node.js, Express.js, TypeScript, and TailwindCSS to stay ahead in tech.
+Building intelligent systems and high-performance products using **Golang**, **Rust**, **Solana**, **React Native**, **Next.js**, and **TypeScript**. Currently working at **Kryptos (Sweden)** and leading engineering at **TouchTechnologies**. Passionate about web3, open source, distributed systems, and developer tooling.
 
-💬 **Expertise**: Open to discussions on ReactJS, Flutter, C++, Python, Dart, JavaScript, Node.js, PlanetScale DB, TimescaleDB, and UI frameworks like ChakraUI and TailwindCSS.
+🛠️ Actively contributing to **[baskt.ai](https://baskt.ai)** – a comprehensive Web3 trading platform enabling users to create and trade **leveraged asset baskets**, including **perpetuals and multiple token positions**.
+👨‍💻 Ex-CTO of NFT-Tag, worked with Mantle (China) and Bridge Alchemy (Singapore).
+
+Let’s connect on [LinkedIn](https://linkedin.com/in/shivanshu814) or check out [shivanshu814.vercel.app](https://shivanshu814.vercel.app)
+
+
 
 <!-- Social Media -->
 
@@ -19,9 +24,13 @@
 # 💻 Tech Stack:
  ```javascript
 const Shivanshu = {
-  Language: [CPP, C, Python, HTML, Kotlin, JavaScript, Dart, Handelbars, Postgresql, Rust, SQL],
-  Framework: [ReactJS, NextJS, T3 Stack],
-  Backend: [ExpressJS, Javascript, Typescript, NestJS],
+  Language: ['C++', 'C', 'Python', 'JavaScript', 'TypeScript', 'Dart', 'PostgreSQL', 'Rust', 'SQL'],
+  Framework: ['ReactJS', 'NextJS', 'T3 Stack', 'TailwindCSS', 'ChakraUI', 'MaterialUI'],
+  Backend: ['ExpressJS', 'NestJS', 'Node.js', 'Prisma', 'TypeScript', 'JavaScript'],
+  Database: ['PlanetScale', 'NeonDB', 'MongoDB', 'Firebase Firestore', 'PostgreSQL', 'TimescaleDB'],
+  Tools: ['Docker', 'TurboRepo', 'Redis', 'AWS', 'Vercel', 'GitHub Actions'],
+  Web3: ['Solana', 'Anchor', 'Rust', 'Metaplex', 'Wallet Adapter', 'Privy'],
+  Misc: ['TurboRepo', 'Monorepo Architecture']
 }
 ```
 

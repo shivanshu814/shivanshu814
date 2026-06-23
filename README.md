@@ -112,73 +112,12 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔗 Baskt Protocol</h3>
-      <p>Solana-native derivatives trading platform. Anchor/Rust smart contract with 47+ instructions, Redis Streams event bus (18 streams, circuit breaker, dead-letter queues), Guardian risk engine, and BullMQ execution pipeline.</p>
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust" />
-      <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h3>🏢 Kryptos Platform</h3>
-      <p>Enterprise crypto accounting & tax infrastructure — OIDC/OAuth2 identity platform, MCP server (15+ tools), multi-blockchain connectors (Solana, EVM, Cardano, UTXO), CARF/DAC8 compliance, NLP transaction classification (94% accuracy).</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🖥️ TouchOS</h3>
-      <p>Browser-based cloud operating system — 280+ React components, VM orchestration, app launcher, terminal emulator, file manager, AWS S3 storage, OpenAI integration, PWA support.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h3>🤖 DreamingAI MCP Server</h3>
-      <p>Published npm package exposing enterprise AI platform tools to Claude Desktop & Cursor. Conversation management, agent lifecycle, prompt templates, multi-model orchestration, plugin marketplace.</p>
-      <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/MCP-D97757?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📊 Aura AI</h3>
-      <p>AI SaaS with async Celery computer vision pipeline (MediaPipe, OpenCV), multi-tier LLM workflows (Claude + Gemini), multi-provider IAP (Stripe/Apple/Google/RevenueCat), React Native app — deployed on AWS ECS + Terraform.</p>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h3>📈 FreeMRR</h3>
-      <p>Verified startup MRR leaderboard — AES-256-GCM encrypted billing credentials, Stripe sync, AI-powered metrics chat (Vercel AI SDK), JSON-LD SEO schema, dynamic sitemap generation.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivanshu814&theme=midnight_purple" />
 
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivanshu814&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu814&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
 
 <br/>
 
@@ -197,8 +136,6 @@
 ---
 
 <div align="center">
-
-![footer](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
 
 <sub>Building systems that are reliable, observable, and built to last.</sub>
 

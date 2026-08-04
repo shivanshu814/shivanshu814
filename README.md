@@ -16,9 +16,6 @@
 **Software Engineer · [Kryptos](https://kryptos.io)** — Göteborg, Sweden
 Enterprise crypto accounting and tax. I work on high-volume, multi-chain transaction ingestion and the compliance engine that turns messy on-chain data into audit-ready numbers.
 
-**Co-founder & CTO · [Aura AI](https://www.auramakeup.org/)**
-AI-powered makeup consultant and virtual stylist. I own the architecture end to end — the computer-vision pipeline for face and skin-tone analysis, the recommendation engine, and a privacy-first design where images are processed in memory and never written to disk.
-
 ## What I've shipped
 
 Systems that ran in production with real users and real money — not technologies I've merely touched:
